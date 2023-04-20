@@ -82,8 +82,9 @@
 <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/122054865/233225522-c7f21b4e-b262-49c8-876b-38450e75c749.png">
 </p>
+
 <p align="center" >
-     <img src"https://user-images.githubusercontent.com/122054865/233225863-1e4487fd-0abf-4de7-b423-583df74a0879.png">
+     <img width="400" heigth="400" src"https://user-images.githubusercontent.com/122054865/233225863-1e4487fd-0abf-4de7-b423-583df74a0879.png">
 </p>
 
 ### Busqueda:
