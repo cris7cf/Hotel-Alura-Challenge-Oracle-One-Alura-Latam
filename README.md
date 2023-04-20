@@ -33,13 +33,13 @@
 ## 🔍 ¡Analizando nuestro repositorio!
 
 ### Este es el repositorio de mi proyecto, en el encontrarás:
-#### 🔹 src/factory: carpeta con el desarrollo del codigo para esteablecer la conexion con la base de datos de MySQL;
+#### 🔹 src/factory: carpeta con el desarrollo del codigo para establecer la conexion con la base de datos de MySQL;
 #### 🔹 src/pruebas: carpeta con una pruba para esteablecer la conexion con la base de datos de MySQL exitosa;
 #### 🔹 src/modelo: carpeta con todos los getters y setters necesarios para desarrollar el programa;
 #### 🔹 src/dao: carpeta con todo el codigo para hacer funcionar la funciones de la interfaz gráfica;
 #### 🔹 src/controller: carpeta con toda la implementacion de dao para despues ser ejecutada en las views;
-#### 🔹 src/views: carpeta con toda la interfaz gráfica de las pantallas necesarias para desarrollar el programa;
-#### 🔹 src/imagenes: carpeta con imágenes que puedes usar en tu proyecto. Siéntete libre de usar otros, si lo deseas;
+#### 🔹 src/views: carpeta con toda la interfaz gráfica del programa;
+#### 🔹 src/imagenes: carpeta con imágenes del proyecto;
 #### 🔹 src/main: carpeta con la funcion de ejecutar el programa;
 </br>
 
@@ -77,13 +77,13 @@
 </p>
 
 ### Registro huesped:
-- Aquí vamos introducir los datos que nos piden y automaticamente se va a generar un id de reserva, éste tiene una Foregin Key. Despues para confirmar que todos los datos fueron guardados con exito aparecera una ventana, al dar "Ok" nos mandara a la ventana de Menu Usuario.
+- Aquí vamos introducir los datos que nos piden y automaticamente se va a generar un id de reserva, éste tiene una Foreign Key. Despues para confirmar que todos los datos fueron guardados con exito aparecera una ventana, al dar "Ok" nos mandara a la ventana de Menu Usuario.
 
 <p align="center" >
      <img width="700" heigth="700" src="https://user-images.githubusercontent.com/122054865/233225522-c7f21b4e-b262-49c8-876b-38450e75c749.png">
 </p>
 <p align="center" >
-     ![image](https://user-images.githubusercontent.com/122054865/233225863-1e4487fd-0abf-4de7-b423-583df74a0879.png)
+     <img src"https://user-images.githubusercontent.com/122054865/233225863-1e4487fd-0abf-4de7-b423-583df74a0879.png">
 </p>
 
 ### Busqueda:
